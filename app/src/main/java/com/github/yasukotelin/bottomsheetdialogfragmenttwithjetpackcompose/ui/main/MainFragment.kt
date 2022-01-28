@@ -1,12 +1,12 @@
-package com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.main
+package com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.main
 
 import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.R
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.databinding.MainFragmentBinding
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.bottom_sheet.BottomSheetDialog
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.R
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.databinding.MainFragmentBinding
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.bottom_sheet.BottomSheetDialog
 
 class MainFragment : Fragment(R.layout.main_fragment) {
 

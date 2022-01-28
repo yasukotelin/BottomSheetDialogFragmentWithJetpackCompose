@@ -1,4 +1,4 @@
-package com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.main
+package com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.main
 
 import androidx.lifecycle.ViewModel
 

@@ -1,8 +1,8 @@
-package com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose
+package com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.main.MainFragment
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.theme
+package com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.lightColors

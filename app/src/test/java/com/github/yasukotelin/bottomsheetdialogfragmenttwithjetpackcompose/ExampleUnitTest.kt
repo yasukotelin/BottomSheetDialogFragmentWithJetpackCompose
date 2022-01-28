@@ -1,4 +1,4 @@
-package com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose
+package com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.bottom_sheet.compose
+package com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.bottom_sheet.compose
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
@@ -20,8 +20,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.theme.Black
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.theme.Purple200
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.theme.Black
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.theme.Purple200
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.map

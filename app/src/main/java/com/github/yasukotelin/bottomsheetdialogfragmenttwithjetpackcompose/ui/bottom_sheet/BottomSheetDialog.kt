@@ -1,4 +1,4 @@
-package com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.bottom_sheet
+package com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.bottom_sheet
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.FrameLayout
 import androidx.compose.ui.platform.ComposeView
 import androidx.compose.ui.platform.ViewCompositionStrategy.DisposeOnViewTreeLifecycleDestroyed
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.bottom_sheet.compose.BottomSheetDialogScreen
-import com.github.yasukotelin.bottomnavigationfragmentwithjetpackcompose.ui.theme.SampleTheme
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.bottom_sheet.compose.BottomSheetDialogScreen
+import com.github.yasukotelin.bottomsheetdialogfragmenttwithjetpackcompose.ui.theme.SampleTheme
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 
